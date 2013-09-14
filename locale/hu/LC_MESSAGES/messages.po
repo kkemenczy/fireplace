@@ -88,7 +88,7 @@ msgstr "Kiemelt alkalmazások"
 
 #: hearth/templates/category/main.html:29 hearth/templates/category/main.html:54
 msgid "View All"
-msgstr "Összes megjelenítése"
+msgstr "Összes"
 
 #: hearth/templates/category/main.html:50
 msgid "Popular"
