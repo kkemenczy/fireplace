@@ -84,7 +84,7 @@ msgstr "Összes kategória"
 
 #: hearth/templates/category/main.html:28
 msgid "Featured Apps"
-msgstr "Kiemelt alkalmazások"
+msgstr "Kiemelt appok"
 
 #: hearth/templates/category/main.html:29 hearth/templates/category/main.html:54
 msgid "View All"
@@ -167,7 +167,7 @@ msgid ""
 "Launch this app from your <b>Windows desktop</b> or <b>Start &#9658; All "
 "Programs</b>."
 msgstr ""
-"Alkalmazás indítása a <b>Windows asztaláról</b> vagy a <b>Start &#9658; All "
+"App indítása a <b>Windows asztaláról</b> vagy a <b>Start &#9658; All "
 "Programs</b> menüből."
 
 #: hearth/templates/detail/main.html:51
@@ -175,8 +175,8 @@ msgid ""
 "Launch this app from your <b>dash</b>, <b>Application picker</b>, or <b>"
 "Applications menu</b>."
 msgstr ""
-"Alkalmazás indítása <b>helyből</b>, az <b>Alkalmazás választóból</b>, vagy az "
-"<b>Alkalmazások menüből</b>."
+"App indítása <b>helyből</b>, az <b>App választóból</b>, vagy az "
+"<b>App menüből</b>."
 
 #: hearth/templates/detail/main.html:14 hearth/templates/detail/main.html:15 hearth/templates/detail/receipt.html:18 hearth/templates/detail/receipt.html:19 hearth/media/js/views/app.js:58
 #: hearth/media/js/views/collection.js:16
@@ -189,19 +189,19 @@ msgstr "A kért app nem publikus."
 
 #: hearth/templates/detail/main.html:28
 msgid "The app requested was not found."
-msgstr "Ez az alkalmazás nem található."
+msgstr "Ez az app nem található."
 
 #: hearth/templates/detail/main.html:30
 msgid "The app requested is not available for your region."
-msgstr "Ez az alkalmazás nem érhető el a régiójában."
+msgstr "Ez az app nem érhető el a régióban."
 
 #: hearth/templates/detail/main.html:31
 msgid ""
 "You may wish to contact the developer if you would like to see a version of "
 "this app for your region."
 msgstr ""
-"Felveheti a kapcsolatot a fejlesztővel, ha szeretné az alkalmazást a saját "
-"régiójában is elérni."
+"Felveheti a kapcsolatot a fejlesztővel, ha szeretné az appot a régióban "
+"elérni."
 
 #: hearth/templates/detail/main.html:33
 msgid "A server error occurred. Please try again later."
